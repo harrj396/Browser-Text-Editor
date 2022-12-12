@@ -1,6 +1,6 @@
 {
   "name": "JATE",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "in browser text editor",
   "main": "server.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "",
+  "author": "harrj396",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
