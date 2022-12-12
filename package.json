@@ -15,6 +15,7 @@
   "author": "harrj396",
   "license": "ISC",
   "dependencies": {
+    "babel-loader": "^9.1.0",
     "express": "^4.17.1",
     "if-env": "^1.0.4"
   },
